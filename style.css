@@ -1,0 +1,18 @@
+*{
+    font-family: monospace;
+ 
+}
+
+
+body h6 {
+    font-size: x-large;
+    color: red;
+    text-align: center;
+}
+
+
+body h5{
+    font-size: larger;
+    color: blue;
+    text-align: center;
+}
